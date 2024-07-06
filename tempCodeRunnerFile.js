@@ -1,0 +1,1 @@
+"./index.css","./src/**/*.{html,js,jsx,ts}"

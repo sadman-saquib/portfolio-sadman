@@ -1,0 +1,80 @@
+/* .hero{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+} */ 
+
+/* .hero img{
+    margin-top: 80px;
+    width: 200px;
+    border-radius: 100px;
+} */
+
+/* .hero h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+} */
+
+ .hero p{
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 0px;
+    margin-bottom: 0px;
+}
+
+/* .hero-action{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 50px;
+} */
+
+.hero-connect{
+    display: flex;
+    background-color: white;
+    color: #161513;
+    padding: 10px 0px;
+    width: 170px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.hero-connect:hover{
+    transform: scale(1.05);
+}
+
+.hero-resume{
+    display: flex;
+    padding: 10px 0px;
+    width: 170px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: whitesmoke solid 1px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.hero-resume:hover{
+    transform: scale(1.05);
+}
+
+.hero-action img{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 2px;
+    padding: 0;
+    margin: 0;
+    border-radius: 0px;
+    margin-right: 7px;
+}

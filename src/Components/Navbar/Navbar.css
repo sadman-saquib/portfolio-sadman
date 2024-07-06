@@ -1,0 +1,31 @@
+/* .navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px 170px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+.nav-menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    font-size: 14px;
+} */
+
+/* .nav-connect{
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: whitesmoke solid 1px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.5s;
+} */
+/* 
+.nav-connect:hover{
+    transform: scale(1.05);
+} */
