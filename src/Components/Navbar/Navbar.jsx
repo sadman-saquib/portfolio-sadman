@@ -35,6 +35,7 @@ const Navbar = () => {
         <NavLink 
         to={link.path} 
         key={index}
+        exact={link.exact}
         className={({ isActive }) =>
           `${isActive ? "text-accent border-b-2 border-accent" : ""} capitalize font-medium hover:text-accent transition-all`
         }
