@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-sadman/',
+  base: 'portfolio-sadman',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
