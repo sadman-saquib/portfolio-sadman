@@ -6,6 +6,7 @@ const links = [
   {
     name: "Home",
     path: "/",
+    exact: true,
   },
   {
     name: "About Me",
