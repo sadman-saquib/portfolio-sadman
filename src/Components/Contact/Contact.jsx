@@ -87,10 +87,10 @@ const Contact = () => {
                                 </SelectTrigger>
                                 <SelectContent>
                                     <SelectGroup>
-                                        <SelectItem value='web-development'>Web Development</SelectItem>
-                                        <SelectItem value='graphic-design'>Graphic Design</SelectItem>
-                                        <SelectItem value='ui-ux-design'>UI/UX Design</SelectItem>
-                                        <SelectItem value='video-editing'>Video Editing</SelectItem>
+                                        <SelectItem type="text" value='web-development' name='web-development'>Web Development</SelectItem>
+                                        <SelectItem type="text" value='graphic-design' name='graphic-design'>Graphic Design</SelectItem>
+                                        <SelectItem type="text" value='ui-ux-design' name='ui-ux-design'>UI/UX Design</SelectItem>
+                                        <SelectItem type="text" value='video-editing'name='video-editing'>Video Editing</SelectItem>
                                     </SelectGroup>
                                 </SelectContent>
                             </Select>

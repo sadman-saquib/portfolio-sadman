@@ -29,7 +29,7 @@ const Hero = () => {
             <img src={send} alt="Send Icon" />Say Hello
           </div>
           </Link>
-        <a href="https://drive.google.com/file/d/1tmo-dLTFTA-cN2MGihVmpeWNw_QUteoq/view?usp=sharing" target='_blank'>
+        <a href="https://drive.google.com/file/d/1rTQjphP2ivjv4VL0BtacfdxPEJ62Yj0L/view?usp=sharing" target='_blank'>
           <div className="hero-resume">
             <img src={resume} alt="Resume Icon" />My Resume
           </div>
